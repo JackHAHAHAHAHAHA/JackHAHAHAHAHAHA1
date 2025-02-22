@@ -19,8 +19,10 @@ nav a{
     text-decoration: none;
     color: white;
     background-color: black;
-    padding: 5px;
+    padding: 10px;
     text-align: center;
+    width:100px;
+    height:15px;
 }
 .a3{
     text-align: center;
