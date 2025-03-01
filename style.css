@@ -134,7 +134,3 @@ nav{
     display:flex;
     justify-content: space-around;
 }
-body p{
-    display:flex;
-    justify-content:center;
-}
